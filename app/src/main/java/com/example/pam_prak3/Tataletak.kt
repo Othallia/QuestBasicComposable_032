@@ -58,6 +58,7 @@ fun TataletakBox(modifier: Modifier) {
         Text(text = "Column 1")
         Text(text = "Row 1")
         Text(text = "Row 2")
+        Text(text = "Column 2")
     }
 }
 
